@@ -1,5 +1,5 @@
 // Solution 1
-//function cumSum(arr){
+//export function cumSum(arr){
     //return arr.reduce((acc, cur) => acc + cur, 0);
 //}
 

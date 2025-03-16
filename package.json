@@ -1,0 +1,24 @@
+{
+  "name": "fireshipjs",
+  "version": "1.0.0",
+  "description": "Learn the fundamentals of [modern JavaScript](https://fireship.io/courses/js) programming and web development in this fun, fast-paced course.",
+  "main": "alg_binarySearch.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molenn/javascript-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molenn/javascript-course/issues"
+  },
+  "homepage": "https://github.com/molenn/javascript-course#readme",
+  "devDependencies": {
+    "vitest": "^3.0.8"
+  }
+}

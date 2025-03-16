@@ -1,4 +1,4 @@
-function search(arr, target, start=0, end=arr.length-1) {
+export function search(arr, target, start=0, end=arr.length-1) {
 
     console.log(start, end);
 
@@ -24,6 +24,7 @@ function search(arr, target, start=0, end=arr.length-1) {
 
 }
 
-const arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
-console.log(search(arr, 'y')); // 1
+// const arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+// 
+// console.log(search(arr, 'y')); // 1
 
